@@ -1,3 +1,6 @@
+> [!NOTE]
+> Completely written by Ampcode: https://ampcode.com/threads/T-f7489d5a-7e5a-4b0c-a593-27fd687a3089
+
 # term-to-json
 
 A Go library that parses command line output from common Linux utilities into JSON format, inspired by the [jc](https://github.com/kellyjonbrazil/jc) tool.
